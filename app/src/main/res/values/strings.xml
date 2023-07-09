@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoFinal</string>
+    <string name="title_activity_tela_inicial">TelaInicial</string>
+    <string name="title_activity_tela_insercao">TelaInsercao</string>
+    <string name="title_activity_tela_mostrar">TelaMostrar</string>
+    <string name="title_activity_tela_busca">TelaBusca</string>
+    <string name="title_activity_tela_atualizar">TelaAtualizar</string>
+</resources>
